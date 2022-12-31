@@ -2,7 +2,7 @@
 This application is developed as an assignment for C++ Nanodegree Program at Udacity. 
 It tooks an .osm map as input and calculate the shortest path from start to end points using A* search algorithm. 
 
-This repo contains the starter code for the Route Planning project.
+The starter code for the Route Planning project is copied from the following repo and then custom functions were written for the assignment. 
 
 <img src="map.png" width="600" height="450" />
 
